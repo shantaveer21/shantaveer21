@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning to grow my skills and knowledge  
 
-📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/15kPDM38rFzT_RX2VIxOlnObAjl50cb8o/view?usp=sharing)  
+<!--📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/15kPDM38rFzT_RX2VIxOlnObAjl50cb8o/view?usp=sharing)  -->
 
 💻 All of my projects are available on [GitHub](https://github.com/shantaveer21)  
 
